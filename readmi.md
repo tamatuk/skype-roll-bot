@@ -8,4 +8,4 @@ Pretty simple and easy to use skype bot that just rolls the dice simmilar to rol
 2. cd to the folder.
 3. pip install -r requirements.txt
 4. change login/pass in settings.py
-5. python daemon.py start
+5. python daemon.py start(stop, restart)
